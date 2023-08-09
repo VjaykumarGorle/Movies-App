@@ -178,8 +178,8 @@ class HomeSection extends Component {
             {this.renderOriginalsOutputView()}
           </div>
           <hr className="ruler" />
+          <FooterSection />
         </div>
-        <FooterSection />
       </>
     )
   }
